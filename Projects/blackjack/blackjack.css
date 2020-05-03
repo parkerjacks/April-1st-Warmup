@@ -1,0 +1,33 @@
+#table{ 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-around; 
+    align-items: center;
+    background-color: mediumslateblue; 
+    width: 700px; 
+    height:600px;
+} 
+label.points{
+    width:500px; 
+    height: 200px;
+    background-color: gainsboro; 
+    border: solid 6px midnightblue; 
+    display: flex; 
+    flex-direction: row; 
+    align-items: center; 
+    justify-content: space-around;
+} 
+img { 
+    width: 100px;  
+    height: 100px;
+
+} 
+
+label{ 
+    font-family: 'Bangers'; 
+    font-size: 40px;
+} 
+
+.buttons { 
+    font-family: 'Bangers';
+}
